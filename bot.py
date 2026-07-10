@@ -3,7 +3,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import json
 import os
 
-TOKEN = "8629584902:AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zU"
+TOKEN = "8537371857:AAEWyIQlxwvn8zKTYHqV7TovfMmuIA1d8Mk"
 ADMIN_ID = 7156406347
 ADMIN_USERNAME = "Taskman96"
 
