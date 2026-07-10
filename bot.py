@@ -7,8 +7,8 @@ TOKEN = "8537371857:AAEWyIQlxwvn8zKTYHqV7TovfMmuIA1d8Mk"
 ADMIN_ID = 6977939773
 ADMIN_USERNAME = "Yashvant44"
 
-FREE_CHANNEL_LINK = "https://t.me/+RHgUD3P9XLczZmZl"
-PREMIUM_CHANNEL_LINK = "https://t.me/+UDp2VaMp4CxiNDA1"
+FREE_CHANNEL_LINK = "https://t.me/+ZS_SriPLtx9lNzA1"
+PREMIUM_CHANNEL_LINK = "https://t.me/+AJ5hR--vUJBiODRl"
 
 QR_FILE = "qr.png"
 USERS_FILE = "users.json"
