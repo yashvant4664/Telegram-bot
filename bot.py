@@ -4,7 +4,7 @@ import json
 import os
 
 TOKEN = "8537371857:AAEWyIQlxwvn8zKTYHqV7TovfMmuIA1d8Mk"
-ADMIN_ID = 7156406347
+ADMIN_ID = 6977939773
 ADMIN_USERNAME = "Taskman96"
 
 FREE_CHANNEL_LINK = "https://t.me/+RHgUD3P9XLczZmZl"
